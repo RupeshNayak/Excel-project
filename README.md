@@ -1,7 +1,7 @@
 This project contains 2 reports 
 -**Sales report**
     Which further contains 2 worksheets Customer performance report and market performance vs target report.
-      -> Customer performance report- includes net sales for three years and it contains year of year comparison in %
+      -> Customer performance report- includes net sales for three years and it contains YOY comparison in %
       -> Market performance vs target report We have given a Target and we are comparing how the market has performed from the past few years and with the help of that we can check how customers are performing 
         and in this, we have also calculated the Target%
         
